@@ -1,0 +1,28 @@
+#container {
+  background-color: darksalmon;
+  margin: 0 auto;
+  width: 80%;
+  padding: 10px;
+}
+
+#header {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#timeRemaining {
+  text-align: center;
+  border: 2px solid black;
+  font-weight: bold;
+
+}
+
+#timer {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#submitBtn {
+  padding: 7px;
+  margin: 7px 0px;
+}
